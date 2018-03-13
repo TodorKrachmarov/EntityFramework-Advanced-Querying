@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShopSystem", "BookShopSystem\BookShopSystem\BookShopSystem.csproj", "{C2AA9E2B-D675-4334-8838-FE67FD963C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniSystem", "SoftUniSystem\SoftUniSystem.csproj", "{AA58C723-6A6F-4F17-9EE2-D7DEA0A4C2B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GringottsSystem", "GringottsSystem\GringottsSystem.csproj", "{630A8956-692A-4AFC-804B-3A832B8BF33C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AA9E2B-D675-4334-8838-FE67FD963C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AA9E2B-D675-4334-8838-FE67FD963C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AA9E2B-D675-4334-8838-FE67FD963C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AA9E2B-D675-4334-8838-FE67FD963C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA58C723-6A6F-4F17-9EE2-D7DEA0A4C2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA58C723-6A6F-4F17-9EE2-D7DEA0A4C2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA58C723-6A6F-4F17-9EE2-D7DEA0A4C2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA58C723-6A6F-4F17-9EE2-D7DEA0A4C2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630A8956-692A-4AFC-804B-3A832B8BF33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630A8956-692A-4AFC-804B-3A832B8BF33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630A8956-692A-4AFC-804B-3A832B8BF33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630A8956-692A-4AFC-804B-3A832B8BF33C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
